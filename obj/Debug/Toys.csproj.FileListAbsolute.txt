@@ -1,0 +1,15 @@
+C:\Users\Migi\source\repos\Toys\Toys\bin\Debug\Toys.exe.config
+C:\Users\Migi\source\repos\Toys\Toys\bin\Debug\Toys.exe
+C:\Users\Migi\source\repos\Toys\Toys\bin\Debug\Toys.pdb
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.csproj.AssemblyReference.cache
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.Form1.resources
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.Properties.Resources.resources
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.Update.resources
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.csproj.GenerateResource.cache
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.csproj.CoreCompileInputs.cache
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.exe
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.pdb
+C:\Users\Migi\source\repos\Toys\Toys\bin\Debug\Dapper.dll
+C:\Users\Migi\source\repos\Toys\Toys\bin\Debug\Dapper.xml
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.csproj.CopyComplete
+C:\Users\Migi\source\repos\Toys\Toys\obj\Debug\Toys.Form2.resources
